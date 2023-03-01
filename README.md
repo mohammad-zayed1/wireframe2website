@@ -1,4 +1,4 @@
 # wireframe2website
 
 1. ## Home Page Image : 
-![Home Page](C:\Users\Stand By\OneDrive\سطح المكتب\wireframe image\Screenshot 2023-03-01 140432.png)
+![Home Page](./wireframe%20image/Screenshot%202023-03-01%20140432.png)
