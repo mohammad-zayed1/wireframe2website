@@ -4,7 +4,7 @@
 convert wireframe design to website by HTML language
 ## what are the tools you used to create it ?
 * HTML
-* https://placehold.jp/en.html (websit take image from it)
+* https://placehold.jp/en.html (images from this website)
 * VS Code 
 
 
